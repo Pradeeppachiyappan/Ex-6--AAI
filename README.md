@@ -1,5 +1,5 @@
 <H3>Name : Pradeepraj P</H3>
-<H3>Reg No.: 212222240073</H3>
+<H3>Reg No : 212222240073</H3>
 <H3>EX.NO.6</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 <H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
